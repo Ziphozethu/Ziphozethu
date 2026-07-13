@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Ziphozethu/Ziphozethu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Ziphozethu Mahaye 👋
 
-Here are some ideas to get you started:
+🌹I'm a 1st Year Computer Science student at Wits University from Nkandla, KZN.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱What I'm learning right now:
+- Python & C++ fundamentals
+- Problem solving and Data Structures
+- Git & GitHub
+
+🌱☘️Background:
+- Top 10 Matriculant 2025 - 8 Distinctions
+- Featured in Zuland Observer for academic achievement
+
+🍀I'm building small projects to learn and grow. Open to feedback and collaboration.
